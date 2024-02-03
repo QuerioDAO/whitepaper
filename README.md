@@ -1,1 +1,1 @@
-# whitepaper
+# Querio Whitepaper
